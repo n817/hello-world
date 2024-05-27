@@ -1,0 +1,48 @@
+body,
+h1,
+h2,
+h3,
+h4,
+p {
+  margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.page {
+  font-family: Poppins, Arial, Helvetica, sans-serif;
+  font-weight: 500;
+}
+
+.header {
+  height: 660px;
+}
+
+.header__banner {
+  font-weight: 500;
+  letter-spacing: -0.64px;
+  font-size: 16px;
+  line-height: 15px;
+  color: #ffe247;
+  text-transform: uppercase;
+  margin: 20px auto 0;
+}
+
+.overlay {
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.2);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 20px;
+}
