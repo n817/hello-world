@@ -69,7 +69,7 @@ p {
 .card {
   width: 490px;
   min-height: 440px;
-  background: #ffffff;
+  background: #fff;
 }
 
 .card__image {
@@ -109,4 +109,13 @@ p {
   font-weight: 400;
   color: #efefef;
   text-align: center;
+}
+
+.footer__author {
+  text-decoration: none;
+  color: #fff;
+}
+
+.footer__author:hover {
+  color: #c1c1c1;
 }
