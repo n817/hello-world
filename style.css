@@ -98,3 +98,24 @@ p {
   font-weight: 400;
   color: #151515;
 }
+
+.footer {
+  padding: 20px 0 40px;
+}
+
+.footer__copyright {
+  font-size: 16px;
+  line-height: 1.5;
+  font-weight: 400;
+  color: #efefef;
+  text-align: center;
+}
+
+.footer__author {
+  text-decoration: none;
+  color: #fff;
+}
+
+.footer__author:hover {
+  color: #c1c1c1;
+}
