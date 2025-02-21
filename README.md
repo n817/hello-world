@@ -1,6 +1,6 @@
 # Hello, World!
 
-Simple single-page site
+A simple one-page website
 ___________________________
 ## Technologies: 
 - HTML
